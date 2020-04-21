@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C76209F5-040E-4A4C-91DD-9D8EFED21AE6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>StudentManager</RootNamespace>
+    <AssemblyName>StudentManager</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ren.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ReachFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WPFMediaKit, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WPFMediaKit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="common\BitmapImg.cs" />
+    <Compile Include="View\AddScoreManager.xaml.cs">
+      <DependentUpon>AddScoreManager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\AddstudentManager.cs.xaml.cs">
+      <DependentUpon>AddstudentManager.cs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ChakanStudentManage.xaml.cs">
+      <DependentUpon>ChakanStudentManage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ChengjiGuanli.xaml.cs">
+      <DependentUpon>ChengjiGuanli.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\DaorustudentManager.xaml.cs">
+      <DependentUpon>DaorustudentManager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\DayinxinxiManger.xaml.cs">
+      <DependentUpon>DayinxinxiManger.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmChangePassword.xaml.cs">
+      <DependentUpon>FrmChangePassword.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmStudentManager.xaml.cs">
+      <DependentUpon>FrmStudentManager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\KaoqinGuanli.xaml.cs">
+      <DependentUpon>KaoqinGuanli.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\SaomaDenglu.xaml.cs">
+      <DependentUpon>SaomaDenglu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\StudentPhoto.xaml.cs">
+      <DependentUpon>StudentPhoto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\XiugaiStudentManage.xaml.cs">
+      <DependentUpon>XiugaiStudentManage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ZhucezhaoghaoManager.xaml.cs">
+      <DependentUpon>ZhucezhaoghaoManager.xaml</DependentUpon>
+    </Compile>
+    <Page Include="common\DataGridStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="common\DayinModel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="frmLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frmLogin.xaml.cs">
+      <DependentUpon>frmLogin.xaml</DependentUpon>
+    </Compile>
+    <Page Include="FrmMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\AddScoreManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\AddstudentManager.cs.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ChakanStudentManage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ChengjiGuanli.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\DaorustudentManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\DayinxinxiManger.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\FrmChangePassword.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\FrmStudentManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\KaoqinGuanli.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\SaomaDenglu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\StudentPhoto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\XiugaiStudentManage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ZhucezhaoghaoManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmMain.xaml.cs">
+      <DependentUpon>FrmMain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{6300b047-1507-45de-9b5d-07b3da799812}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StudentManagerBLL\StudentManagerBLL.csproj">
+      <Project>{a1a7e6eb-53ca-4549-b940-5e07fd0d3c91}</Project>
+      <Name>StudentManagerBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StudentManagerModel\StudentManagerModel.csproj">
+      <Project>{a0f873b3-a9be-4220-98e1-22312de48e45}</Project>
+      <Name>StudentManagerModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\Main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\ico\favicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\Log1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\face.png" />
+    <Resource Include="img\bg\头像2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\信息管理.png" />
+    <Resource Include="img\bg\修改密码.png" />
+    <Resource Include="img\bg\在线帮助.png" />
+    <Resource Include="img\bg\学生管理.png" />
+    <Resource Include="img\bg\帮 助.png" />
+    <Resource Include="img\bg\成绩分析.png" />
+    <Resource Include="img\bg\成绩录入.png" />
+    <Resource Include="img\bg\成绩查询.png" />
+    <Resource Include="img\bg\成绩管理.png" />
+    <Resource Include="img\bg\添加学生.png" />
+    <Resource Include="img\bg\系统.png" />
+    <Resource Include="img\bg\考勤打卡.png" />
+    <Resource Include="img\bg\考勤查询.png" />
+    <Resource Include="img\bg\考勤管理.png" />
+    <Resource Include="img\bg\退出系统.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\批量导入.png" />
+    <Resource Include="img\bg\访问官网.png" />
+    <Resource Include="img\bg\账号切换.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\批量.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\mainbg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\today.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg\搜索.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\ico\bitbug.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ren.ico" />
+    <Resource Include="img\ico\dy.ico" />
+    <Resource Include="img\bg\二维码.png" />
+    <Resource Include="img\ico\bd.ico" />
+    <Resource Include="img\ico\ren.ico" />
+    <Resource Include="img\ico\sx.ico" />
+    <Resource Include="img\ico\dk.ico" />
+    <Resource Include="img\ico\qr.ico" />
+    <Resource Include="img\ico\qx.ico" />
+    <Resource Include="img\ico\sc.ico" />
+    <Resource Include="img\ico\down.ico" />
+    <Resource Include="img\ico\jiang.ico" />
+    <Resource Include="img\ico\sheng.ico" />
+    <Resource Include="img\ico\up.ico" />
+    <Resource Include="img\ico\7.ico" />
+    <Resource Include="img\ico\6.ico" />
+    <Resource Include="img\ico\1.ico" />
+    <Resource Include="img\bg\zw.jpg" />
+    <Resource Include="img\bg\保存.png" />
+    <Resource Include="img\bg\拍照.png" />
+    <Resource Include="img\bg\重拍.png" />
+    <Resource Include="img\ico\10.ico" />
+    <Resource Include="img\bg\码.png" />
+    <Resource Include="img\ico\fh.ico" />
+    <Resource Include="img\ico\11.ico" />
+    <Content Include="img\ico\2.ico" />
+    <Resource Include="img\ico\3.ico" />
+    <Resource Include="img\ico\4.ico" />
+    <Resource Include="img\ico\5.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

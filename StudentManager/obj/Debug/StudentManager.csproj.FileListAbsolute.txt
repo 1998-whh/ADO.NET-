@@ -1,0 +1,570 @@
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\bin\Debug\StudentManager.exe.config
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\bin\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\bin\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\MainWindow.g.cs
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\App.g.cs
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\MainWindow.baml
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager.g.resources
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManager\obj\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManager.exe.config
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\frmLogin.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\App.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\frmLogin.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager.g.resources
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\Common.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\Common.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\FrmMain.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\FrmMain.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\FrmStudentManager.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\FrmChangePassword.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\AttendanceCheckManager.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\InformationManagement.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\ScoreEntryManager.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\ScoreQueryManager.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\AttendanceCheckManager.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\InformationManagement.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\ScoreEntryManager.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManager\obj\Debug\View\ScoreQueryManager.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManager.exe.config
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\Common.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\Common.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\frmLogin.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\FrmMain.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\AttendanceCheckManager.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\InformationManagement.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\ScoreEntryManager.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\ScoreQueryManager.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\App.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\frmLogin.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\FrmMain.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\AttendanceCheckManager.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\FrmChangePassword.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\FrmStudentManager.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\InformationManagement.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\ScoreEntryManager.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\ScoreQueryManager.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager.g.resources
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\StudentManager_Content.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManager\obj\Debug\common\DataGridStyle.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\frmLogin.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\FrmMain.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\App.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager_Content.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\common\DataGridStyle.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\frmLogin.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\FrmMain.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\FrmChangePassword.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\FrmStudentManager.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager.g.resources
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\DirectShowLib-2005.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\EVRPresenter32.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\EVRPresenter64.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManager.exe.config
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\Common.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\Common.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\frmLogin.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\FrmMain.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\App.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager_Content.g.cs
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\common\DataGridStyle.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\frmLogin.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\FrmMain.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\FrmChangePassword.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\FrmStudentManager.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager.g.resources
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\StudentPhoto.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\StudentPhoto.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\DaorustudentManager.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\DaorustudentManager.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\DirectShowLib-2005.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\EVRPresenter32.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\EVRPresenter64.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManager.exe.config
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\Common.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\Common.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\frmLogin.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\FrmMain.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\DaorustudentManager.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\StudentPhoto.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\App.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager_Content.g.cs
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\common\DataGridStyle.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\frmLogin.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\FrmMain.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\DaorustudentManager.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\FrmChangePassword.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\FrmStudentManager.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\StudentPhoto.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager.g.resources
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\DayinxinxiManger.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\common\DayinModel.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\DayinxinxiManger.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\SaomaDenglu.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\SaomaDenglu.baml
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\KaoqinGuanli.g.cs
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManager\obj\Debug\View\KaoqinGuanli.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\frmLogin.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\FrmMain.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\DaorustudentManager.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\DayinxinxiManger.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\KaoqinGuanli.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\SaomaDenglu.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\StudentPhoto.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\App.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager_Content.g.cs
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\common\DataGridStyle.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\common\DayinModel.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\frmLogin.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\FrmMain.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\DaorustudentManager.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\DayinxinxiManger.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\FrmChangePassword.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\FrmStudentManager.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\KaoqinGuanli.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\SaomaDenglu.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\StudentPhoto.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.baml
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager.g.resources
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\frmLogin.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\FrmMain.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\AddScoreManager.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\DaorustudentManager.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\DayinxinxiManger.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\KaoqinGuanli.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\SaomaDenglu.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\StudentPhoto.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\App.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager_Content.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\common\DataGridStyle.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\common\DayinModel.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\frmLogin.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\FrmMain.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\AddScoreManager.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\DaorustudentManager.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\DayinxinxiManger.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\FrmChangePassword.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\FrmStudentManager.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\KaoqinGuanli.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\SaomaDenglu.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\StudentPhoto.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager.g.resources
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\frmLogin.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\FrmMain.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\AddScoreManager.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\DaorustudentManager.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\DayinxinxiManger.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\KaoqinGuanli.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\SaomaDenglu.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\StudentPhoto.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\App.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager_Content.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\common\DataGridStyle.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\common\DayinModel.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\frmLogin.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\FrmMain.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\AddScoreManager.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\DaorustudentManager.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\DayinxinxiManger.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\FrmChangePassword.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\FrmStudentManager.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\KaoqinGuanli.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\SaomaDenglu.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\StudentPhoto.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.baml
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.g.resources
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\frmLogin.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\FrmMain.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\AddScoreManager.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\DaorustudentManager.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\DayinxinxiManger.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\KaoqinGuanli.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\SaomaDenglu.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\StudentPhoto.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\App.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager_Content.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\common\DataGridStyle.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\common\DayinModel.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\frmLogin.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\FrmMain.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\AddScoreManager.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\DaorustudentManager.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\DayinxinxiManger.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\FrmChangePassword.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\FrmStudentManager.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\KaoqinGuanli.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\SaomaDenglu.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\StudentPhoto.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.baml
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager.g.resources
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\ChengjiGuanli.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManager\obj\Debug\View\ChengjiGuanli.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\frmLogin.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\FrmMain.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\AddScoreManager.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\ChengjiGuanli.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\DaorustudentManager.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\DayinxinxiManger.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\KaoqinGuanli.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\SaomaDenglu.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\StudentPhoto.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\App.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager_Content.g.cs
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\common\DataGridStyle.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\common\DayinModel.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\frmLogin.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\FrmMain.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\AddScoreManager.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\ChengjiGuanli.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\DaorustudentManager.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\DayinxinxiManger.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\FrmChangePassword.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\FrmStudentManager.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\KaoqinGuanli.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\SaomaDenglu.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\StudentPhoto.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.baml
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager.g.resources
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ChengjiGuanli.g.cs
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ChengjiGuanli.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\DirectShowLib-2005.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\EVRPresenter32.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\EVRPresenter64.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManager.exe.config
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManager.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\Common.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\Common.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\frmLogin.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\FrmMain.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\AddScoreManager.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\AddstudentManager.cs.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ChakanStudentManage.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ChengjiGuanli.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\DaorustudentManager.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\DayinxinxiManger.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\FrmChangePassword.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\FrmStudentManager.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\KaoqinGuanli.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\SaomaDenglu.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\StudentPhoto.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\XiugaiStudentManage.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\App.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager_Content.g.cs
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager_MarkupCompile.cache
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager_MarkupCompile.lref
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\common\DataGridStyle.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\common\DayinModel.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\frmLogin.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\FrmMain.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\AddScoreManager.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\AddstudentManager.cs.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ChakanStudentManage.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ChengjiGuanli.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\DaorustudentManager.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\DayinxinxiManger.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\FrmChangePassword.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\FrmStudentManager.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\KaoqinGuanli.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\SaomaDenglu.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\StudentPhoto.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\XiugaiStudentManage.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\View\ZhucezhaoghaoManager.baml
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.g.resources
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.exe
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManager\obj\Debug\StudentManager.pdb

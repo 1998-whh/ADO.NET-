@@ -1,0 +1,157 @@
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0228学员管理系统\作业\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（二）\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年02月份\0229学院管理系统（三）\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0304 学员管理系统（五）\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\项目 (1)\StudentManagerBLL\bin\Debug\Common.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\DirectShowLib-2005.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\EVRPresenter32.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\EVRPresenter64.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\Common.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\bin\Debug\Common.pdb
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0306学生管理系统（七）\code\项目 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\项目 (1) (1)\StudentManagerBLL\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\项目\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\学员管理系统 (1)\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\DirectShowLib-2005.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\EVRPresenter32.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\EVRPresenter64.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\Common.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\bin\Debug\Common.pdb
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+C:\Users\随遇而安\Desktop\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\DirectShowLib-2005.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\EVRPresenter32.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\EVRPresenter64.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerBLL.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerDAL.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerModel.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\Common.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerDAL.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\StudentManagerModel.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\bin\Debug\Common.pdb
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.csprojAssemblyReference.cache
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.csproj.CopyComplete
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.dll
+F:\培训\C#\基础\2020年03月份\0309学生管理系统（九）\王航航-2020年3月15日(1)\王航航-2020年3月15日\学员管理系统\StudentManagerBLL\obj\Debug\StudentManagerBLL.pdb
